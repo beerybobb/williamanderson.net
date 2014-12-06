@@ -13,7 +13,7 @@
 <body>
 <?php include "includes/header.php" ?>
 <div class="container"></div>
-<div class="box effect2" >
+<div class="box effect2" style="width:1200px; height:333px">
 <span class="banner-text blue1">Audio Mixing, Editing, Mastering</span><img style="padding-bottom:40px;" src="images/audio-temp.jpg" width="1200" height="333"  alt="Audio Mixing, Editing, and Mastering"/> <span> I've done lots of things. hire me. I'll make all your wildest dreams come true, at reasonable prices. jeez i need money. help me out yo. awwwwww shit shawy, i got equiptment and stuff ya hurr? ok i need real copy here.</span>
 <h2>Junk I've Done</h2>
 <div class="audio-box">
