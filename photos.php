@@ -1,11 +1,7 @@
 <!DOCTYPE HTML PUBLIC “-//W3C//DTD HTML 4.01 Transitional//EN” “http://www.w3.org/TR/html4/loose.dtd”>
 <html>
 <head>
-<link href='http://fonts.googleapis.com/css?family=Open+Sans' rel='stylesheet' type='text/css'>
-<script src="lightbox/js/jquery-1.11.0.min.js"></script>
-	<script src="lightbox/js/lightbox.min.js"></script>
-    <link href="lightbox/css/lightbox.css" rel="stylesheet" />
-    <link href="css/style.css" rel="stylesheet" />
+<?php include "includes/includes.php" ?>
 
 <meta charset="utf-8">
 <title>Photos | But i'm not a photographer</title>
