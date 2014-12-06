@@ -16,7 +16,7 @@
 <div class="container"></div>
 <div class="box effect2" style="width:1200px; height:333px"><span class="banner-text blue1">Audio Mixing, Editing, Mastering</span><img style="padding-bottom:40px;" src="images/audio-temp.jpg" width="1200" height="333"  alt=""/>
           <span> I've done lots of things. hire me. I'll make all your wildest dreams come true, at reasonable prices. jeez i need money. help me out yo. awwwwww shit shawy, i got equiptment and stuff ya hurr? ok i need real copy here.</span>
-          <h2>Junk I've Done</h2>
+<h2>Junk I've Done</h2>
 <div class="audio-box"><div><div class="effect3"><img src="images/audio/stimpy-lockjaw.jpg"></div><span>Stimpy Lockjaw</span></div>
 <div><div class="effect3"><img src="images/audio/ever-forthright.jpg"></div><span>Ever Forthright</span></div>
 <div><div class="effect3"><img src="images/audio/painted-in-exile.jpg"></div><span>Painted In Exile</span></div><div><div class="effect3"><img src="images/audio/backtrack.jpg"></div><span>Backtrack</span></div>

@@ -4,7 +4,7 @@
 <?php include "includes/includes.php" ?>
 
 <meta charset="utf-8">
-<title>Photos | But I'm Not A Photographer</title>
+<title>Resume | William Anderson | New York Front End Developer</title>
 </head>
 
 <body>

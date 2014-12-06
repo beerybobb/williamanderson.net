@@ -1,9 +1,8 @@
-<div class="top-nav"><div class="holder">contact</div></div>
+
 <div class="container white">
   <div class="holder">
     <div style="font-family:'Gentium Basic', serif; height:100px; background-color:#fff;">
-      <div class="walogo"><span style="font-size:39pt;">WA</span><br>
-        <span style="font-size:17pt;">Creative</span></div>
+      <div class="walogo"><span style="font-size:39pt;">WA</span></div>
     </div>
   </div>
   <div class="navgray">
