@@ -21,7 +21,7 @@ h2 {
 .green{background-color:#00a651;}
 .yellow {background-color:#ffde00;}
 .holder {width:1200px; margin:0 auto;}
-.walogo {color:#6d6e71; width:50px; line-height:23px; padding-top:25px; } 
+.walogo {color:#6d6e71; width:100%; padding-top:25px; } 
 .navblock {width:150px; color:white; height:35px; text-align:center; font-weight:500; line-height:35px; float:left; transition:ease-in-out .3s;}
 .navblock a{text-decoration:none; color:white;}
 .navblock:hover {opacity:.9; box-shadow: 0 1px 4px -1px #0071bb; }
