@@ -1,0 +1,172 @@
+/* CSS Document */
+body {
+	background: #F4F4F4;
+	font-family: 'Open Sans', sans-serif; font-weight:400;
+	margin:0;
+	padding:0;
+}
+h2 {
+	color: #333;
+	font-weight:500;
+	padding:8px;
+}
+.container{width:100%;}
+.white{background-color:white;}
+.navgray{background-color:#dddddd; height:35px;}
+.blue1{background-color:#0071bb;}
+.blue2{background-color:#7ad3f7;}
+.blue3{background-color:#90a7d6;}
+.purple{background-color:#903f98;}
+.blue4{background-color:#2e3192;}
+.green{background-color:#00a651;}
+.yellow {background-color:#ffde00;}
+.holder {width:1200px; margin:0 auto;}
+.walogo {color:#6d6e71; width:50px; line-height:23px; padding-top:25px; } 
+.navblock {width:150px; color:white; height:35px; text-align:center; font-weight:500; line-height:35px; float:left; transition:ease-in-out .3s;}
+.navblock a{text-decoration:none; color:white;}
+.navblock:hover {opacity:.9; box-shadow: 0 1px 4px -1px #0071bb; }
+.audio-box{clear:both;}
+.audio-box div {width:280px; padding:20px 10px 20px 10px; float:left;}
+.audio-box img {transition:ease-in-out .2s; width:280px; height:273px; }
+.audio-box div:hover img { width:285px; height:278px; margin-left:-2px;box-shadow: 0px 0px 6px 0px #0071bb; }
+.banner-text {position:absolute; width:100%; font-size:28px; width:440px; height:40px; line-height:38px; text-align:center; float:right; color:white; top:280px; right:18px; opacity:.85;}
+
+.gallery-container {
+	
+	 width:1200px; margin:0 auto;
+}
+.gallery-container div {
+	transition: ease-in-out .3s;
+	background: white;
+	width: 310px;
+	float: left;
+	text-align: center;
+	margin: 15px;
+	border-radius: 2px;
+	-webkit-box-shadow: 0px 0px 4px 0px rgba(50, 50, 50, 0.2);
+	-moz-box-shadow: 0px 0px 4px 0px rgba(50, 50, 50, 0.2);
+	box-shadow: 0px 0px 4px 0px rgba(50, 50, 50, 0.2);
+	opacity: .9;
+}
+.gallery-container div:hover {
+	opacity: 1;
+	-webkit-box-shadow: 0px 0px 6px 1px rgba(50, 50, 50, 0.5);
+	-moz-box-shadow: 0px 0px 6px 1px rgba(50, 50, 50, 0.5);
+	box-shadow: 0px 0px 6px 1px rgba(50, 50, 50, 0.5);
+	padding-bottom:-15px;
+}
+
+.gallery-container div a {
+	text-decoration: none;
+	color: #333;
+}
+.gallery-container div a img {
+	margin: 5px;
+	border-radius:2px 2px 0 0;
+	
+	-webkit-filter: grayscale(50%);
+filter: grayscale(50%);
+}
+.gallery-container div:hover a img{-webkit-filter: grayscale(0%);
+
+filter: grayscale(0%);
+}
+
+
+.box h3{
+	text-align:center;
+	position:relative;
+	top:80px;
+}
+.box {
+	width:70%;
+	height:200px;
+	background:#FFF;
+	margin:40px auto;
+}
+
+.box h3{
+	text-align:center;
+	position:relative;
+	top:80px;
+}
+.box {
+	width:70%;
+	height:200px;
+	background:#FFF;
+	margin:40px auto;
+	
+}
+
+/*==================================================
+ * Effect 2
+ * ===============================================*/
+.effect2
+{
+  position: relative;
+}
+.effect2:before, .effect2:after
+{
+  z-index: -1;
+  position: absolute;
+  content: "";
+  bottom: 15px;
+  left: 10px;
+  width: 50%;
+  top: 80%;
+  max-width:300px;
+  background: #777;
+  -webkit-box-shadow: 0 15px 10px #777;
+  -moz-box-shadow: 0 15px 10px #777;
+  box-shadow: 0 15px 10px #777;
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -o-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+}
+.effect2:after
+{
+  -webkit-transform: rotate(3deg);
+  -moz-transform: rotate(3deg);
+  -o-transform: rotate(3deg);
+  -ms-transform: rotate(3deg);
+  transform: rotate(3deg);
+  right: 10px;
+  left: auto;
+}
+
+/*================================*/
+.effect3
+{
+  position: relative;
+}
+.effect3:before, .effect3:after
+{
+  z-index: -1;
+  position: absolute;
+  content: "";
+  bottom: 35px;
+  left: 10px;
+  width: 50%;
+  top: 80%;
+  max-width:300px;
+  -webkit-box-shadow: 0 15px 10px #777;
+  -moz-box-shadow: 0 15px 10px #777;
+  box-shadow: 0 15px 10px #777;
+  -webkit-transform: rotate(-3deg);
+  -moz-transform: rotate(-3deg);
+  -o-transform: rotate(-3deg);
+  -ms-transform: rotate(-3deg);
+  transform: rotate(-3deg);
+}
+.effect3:after
+{
+  -webkit-transform: rotate(3deg);
+  -moz-transform: rotate(3deg);
+  -o-transform: rotate(3deg);
+  -ms-transform: rotate(3deg);
+  transform: rotate(3deg);
+  right: 10px;
+  left: auto;
+}
